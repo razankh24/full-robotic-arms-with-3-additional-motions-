@@ -61,7 +61,7 @@ void loop() {
     srv4.write(i);
   
   }
-  for (i=0; i>90; i++)
+  for (i=0; i>180; i++)
   {
     srv1.write(i);
 
