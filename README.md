@@ -5,8 +5,10 @@ task: robotic arms
 
 two arms consist of 6 servo motors (3 at each side) 
 
+LINK in tinkercad >> https://www.tinkercad.com/things/eHlb7G8rXoI-bodacious-vihelmo-kasi/editel?sharecode=_Xv5uNAnm_oTeV0bW9DXIvOElHEeT7RAy3Rc6_P96p4
 
-with 3 coded moves ( disclaimer: I did not test these motions in real life I calculated it with the best logic I have) 
+
+with 3 coded moves ( disclaimer: I did not test these motions in real life I calculated it with the best logic I had) 
 
 - I included the initial point.
 - base servos (4,1) move from 0 to 90. 
