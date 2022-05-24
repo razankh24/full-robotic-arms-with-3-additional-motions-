@@ -1,6 +1,6 @@
 # full-robotic-arms-with-3-additional-motions- 
 
-task: robotic arms 
+robotic arms 
 
 
 two arms consist of 6 servo motors (3 at each side) 
